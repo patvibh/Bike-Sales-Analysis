@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# Bike-Sales-Analysis
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐜𝐚𝐬𝐞: To create a dashboard in excel by finding bike sales across different regions, occupations, etc.
 
 Analysis on the dataset:
